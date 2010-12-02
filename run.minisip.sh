@@ -2,6 +2,7 @@
 #
 # Simple script to run minisip
 #
+# testing git fork
 minisip_plugin_path_choose=$PWD/libminisip/.libs
 
 SUBDIRS="${SUBDIRS} libmutil"
